@@ -1,0 +1,9 @@
+# "killers", "killed", and "weight" are not required for events!!
+# if they are not specified, "killers" and "killed" will default to
+# none, and "weight" will default to 50
+
+text = "(P1) and (P2) stumbles upon (P3)'s camp at night. (P1) ties (P3) up, and (P2) sets (them3) on fire."
+category = "Night"
+killed = [ "(P3)" ]
+killers = [ "(P1)", "(P2)" ]
+weight = 10

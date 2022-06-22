@@ -1,0 +1,13 @@
+d:\Development\Rust\hg_sim\target\debug\deps\widestring-0ef670a83380e91b.rmeta: C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+d:\Development\Rust\hg_sim\target\debug\deps\widestring-0ef670a83380e91b.d: C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs:
+C:\Users\Evelyn\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs:

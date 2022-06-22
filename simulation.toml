@@ -1,0 +1,12 @@
+# This file is TOTALLY optional! If it doesn't exist, event and district folders
+# will default to the ones listed below, and death_rate will default to 0.17.
+#
+# death_rate is between 0.0 and 1.0; 1.0 is a 100% death rate
+#
+#
+# for multiple event or district folders:
+# event_folders = [ "events1/", "events2", "etc/" ]
+# district_folders = [ "districts1/", "districts2", "etc/" ]
+event_folders = [ "events/" ] 
+district_folders = [ "districts/" ]
+death_rate = 1.0

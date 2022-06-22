@@ -1,0 +1,3 @@
+event_folders = ["events/"]
+district_folders = ["districts/"]
+death_rate = 0.17

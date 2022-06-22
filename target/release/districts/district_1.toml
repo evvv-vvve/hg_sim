@@ -1,0 +1,23 @@
+name = "District 1"
+
+# Supported pronounss: "He", "She", "They"
+# avatar_url is currently a REQUIRED field, however it's currently not used.
+[[tributes]]
+name = "Abigail"
+avatar_url = "https://example.com/"
+pronouns = "She"
+
+[[tributes]]
+name = "Anthony"
+avatar_url = "https://example.com/"
+pronouns = "He"
+
+[[tributes]]
+name = "Jeffrey"
+avatar_url = "https://example.com/"
+pronouns = "He"
+
+[[tributes]]
+name = "Garveey"
+avatar_url = "https://example.com/"
+pronouns = "They"

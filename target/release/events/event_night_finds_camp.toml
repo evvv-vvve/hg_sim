@@ -1,0 +1,7 @@
+# "killers", "killed", and "weight" are not required for events!!
+# if they are not specified, "killers" and "killed" will default to
+# none, and "weight" will default to 50
+
+text = "(P1) locates a camp, and sees (P2) sleeping. (They1) considers attacking (P2) in (their2) sleep, but decides against it."
+category = "Night"
+weight = 16
