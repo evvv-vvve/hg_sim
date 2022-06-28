@@ -1,8 +1,0 @@
-# "killers", "killed", and "weight" are not required for events!!
-# if they are not specified, "killers" and "killed" will default to
-# none, and "weight" will default to 50
-
-# THE FALLENTRIBUTES EVENT BEING READ FROM FILE IS POSSIBLY TEMPORARY
-
-text = "Gunshots can be heard in the distance."
-category = "FallenTributes"

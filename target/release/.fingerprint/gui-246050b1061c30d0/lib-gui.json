@@ -1,1 +1,0 @@
-{"rustc":2710040094460752720,"features":"[]","target":1992266528759412592,"profile":6269190295429226618,"path":10436931718476165288,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\gui-246050b1061c30d0\\dep-lib-gui"}}],"rustflags":["-Ctarget-feature=+crt-static"],"metadata":7797948686568424061,"config":2202906307356721367,"compile_kind":0}

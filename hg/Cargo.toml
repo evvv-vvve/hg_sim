@@ -1,0 +1,16 @@
+[package]
+name = "hg"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1", features = [ "derive" ] }
+toml = "0.5"
+thiserror = "1"
+anyhow = "1"
+regex = "1.5"
+hashbrown = "0.12"
+rand = "0.8"
+itertools = "0.10"

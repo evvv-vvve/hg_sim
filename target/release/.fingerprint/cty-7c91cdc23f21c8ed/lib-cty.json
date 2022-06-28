@@ -1,1 +1,0 @@
-{"rustc":2710040094460752720,"features":"[]","target":10308157505131260967,"profile":6269190295429226618,"path":4964990611683821999,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\cty-7c91cdc23f21c8ed\\dep-lib-cty"}}],"rustflags":["-Ctarget-feature=+crt-static"],"metadata":6700480107228862934,"config":2202906307356721367,"compile_kind":0}

@@ -1,7 +1,0 @@
-# "killers", "killed", and "weight" are not required for events!!
-# if they are not specified, "killers" and "killed" will default to
-# none, and "weight" will default to 50
-
-text = "(P1) cries (themself1) to sleep."
-category = "Night"
-weight = 40
